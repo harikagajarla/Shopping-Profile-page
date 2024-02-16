@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.top-cover {
+    background-color: #ffcc00;
+    height: 60%;
+    width: 100%;
+    margin: 3px;
+
+}
+
+.box1 {
+    background-color: #ffffff;
+    height: 18vh;
+    width: 25vw;
+    padding: 8px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 10px;
+    text-align: center;
+}
+
+.box2 {
+    background-color: #ffffff;
+    height: 60vh;
+    width: 25vw;
+    padding: 8px;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.box3 {
+    background-color: #ffffff;
+    height: 40vh;
+    width: 50vw;
+    padding: 8px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.navbar {
+    width: 20vw;
+    height: 3vh;
+
+}
+
+.navbar-toggler-icon {
+    width: 12px;
+    height: 12px;
+}
+
+.heading2 {
+    font-size: 20px;
+    font-family: "Caveat";
+    text-decoration: underline;
+}
+
+.mail {
+    background-color: #cc66ff;
+    color: white;
+    font-size: 10px;
+    padding: 3px;
+    border-radius: 8px;
+    width: 140px;
+}
+
+.name {
+    background-color: #80aaff;
+    color: white;
+    font-size: 10px;
+    padding: 3px;
+    border-radius: 8px;
+    width: 90px;
+}
+
+.guest {
+    background-color: #cc3300;
+    color: white;
+    font-size: 10px;
+    padding: 3px;
+    border-radius: 8px;
+    width: 90px;
+}
+
+.btn1 {
+    background-color: black;
+    color: #ffffff;
+    height: 35px;
+    font-size: 10px;
+}
+
+.btn2 {
+    background-color: transparent;
+    height: 35px;
+    font-size: 10px;
+}
+
+.img1 {
+    height: 15vh;
+    width: 20vw;
+}
